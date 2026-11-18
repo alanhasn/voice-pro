@@ -14,7 +14,7 @@ invisible-watermark
 fonts
 font-roboto
 # gradio
-gradio==5.14.0
+gradio==6.16.0
 numpy<2
 pydantic==2.9.1
 yt-dlp==2025.11.12
